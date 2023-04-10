@@ -1,0 +1,23 @@
+.layout_cards {
+    font-family: 'Open Sans', sans-serif;
+    border: 1px solid #7f7f7f;
+    border-radius: 5px;
+    width: 100%;
+    max-width: 290px;
+    min-height: 300px;
+    overflow: hidden;
+}
+
+.layout_cards > p {
+    margin: 0;
+    padding: 20px 0;
+    background-color: #111111;
+    font-weight: 600;
+    color: white;
+    text-align: center;
+}
+
+.layout_dragging {
+    border: 2px dotted #a5a5a5;
+    box-shadow: 3px 3px rgba(0,0,0, 0.3);
+}

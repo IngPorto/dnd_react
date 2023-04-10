@@ -1,0 +1,11 @@
+.grid {
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+
+.isDragging {
+  text-align: center;
+  color: white;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,14 @@
+.title_container {
+    text-align: center;
+    color: #fafafa;
+    margin-bottom: 5em;
+    overflow: auto;
+}
+
+.title {
+    font-family: 'Open Sans', sans-serif;
+}
+.mono {
+    font-family: monospace;
+    font-weight: 100;
+}

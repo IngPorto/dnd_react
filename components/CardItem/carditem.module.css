@@ -1,0 +1,13 @@
+.card_container {
+    background-color: #f6ddff;
+    padding: 11px 10px;
+    margin: 10px;
+    border-radius: 5px;
+    cursor: grab;
+    user-select: none;
+}
+
+.card_container p{
+    margin: 0;
+    font-weight: bold;
+}
